@@ -9,7 +9,9 @@ This repository contains the task to create bar charts or histograms for visuali
 **IMPLEMENTATION:**
 
 1] It utilizes Python Libraries like pandas, matplotlib, numpy, seaborn.
+
 2] Visualize the distributions of categorical and continuous variables such as  gender, age educational-num and hours-per-week.
+
 3] Create a comparison charts and plot between age-income and education-income.
 
 
